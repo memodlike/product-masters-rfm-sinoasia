@@ -1,0 +1,11 @@
+{
+  "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/inter/Inter%5Bopsz,wght%5D.ttf",
+  "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/inter/OFL.txt",
+  "access_date": "2026-10-12",
+  "original_sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+  "transformation": "fontTools instantiateVariableFont: opsz=14, wght=400/700; Bold name IDs corrected to distinguish static weights",
+  "files": {
+    "Inter-Bold.ttf": "e5d27530e4a6e6b95b78d20c113d0a72146308c9707bd031f7c45c92a8888119",
+    "Inter-Regular.ttf": "8a55dcb447808975b4530f1ae552b107869979b69bcc6b10b890a557dd42bbbb"
+  }
+}

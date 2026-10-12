@@ -1,0 +1,15 @@
+{
+  "pages": 2,
+  "format": "A4",
+  "font_cmap": "все символы покрыты Inter Regular/Bold",
+  "source_text_match": true,
+  "blocks_outside_page": [],
+  "pdf_bytes": 36709,
+  "pdf_sha256": "c1e79de49415194d0b927efbf1b2b855318e51bc3bd19eb24b2d136c63584629",
+  "versions": {
+    "reportlab": "4.4.9",
+    "PyMuPDF": "1.26.6",
+    "fonttools": "4.61.1"
+  },
+  "visual_review": "обе итоговые страницы просмотрены: обрезки/перекрытия/сломанных символов не обнаружено"
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "url": "https://sinoasia.kz/",
+    "access_date": "2026-10-12",
+    "status": "официальная HTML-страница",
+    "excerpt": "Подписать договор; Оплатить; Посмотреть договора",
+    "sha256": "a320881613aa84aef143cab9bbcffe3e79c1d08699129a97bcda9aa29e9228d7",
+    "bytes": 195341
+  },
+  {
+    "url": "https://sinoasia.kz/World/Product?code=CASCO",
+    "access_date": "2026-10-12",
+    "status": "официальная HTML-страница",
+    "excerpt": "КАСКО",
+    "sha256": "f4ef25c4047a2da06960958bafc3d9669f5cb712fa102ae65ad210c798e4c2bc",
+    "bytes": 171930
+  },
+  {
+    "url": "https://sinoasia.kz/World/Product?code=imu",
+    "access_date": "2026-10-12",
+    "status": "официальная HTML-страница",
+    "excerpt": "Страхование имущества",
+    "sha256": "c90e2cc9f85b41f97bc4e5e102b545c6372a7835d82008032bf6e5e5b499836d",
+    "bytes": 166051
+  },
+  {
+    "url": "https://sinoasia.kz/World/Partners",
+    "access_date": "2026-10-12",
+    "status": "официальная HTML-страница",
+    "excerpt": "Агентам",
+    "sha256": "b7a3dbf9458241c6248d57f67a0a355c86fb3c5aa55c671c4169d657b6dffc50",
+    "bytes": 151399
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1108/IJBM-11-2016-0175",
+    "access_date": "2026-10-12",
+    "status": "метаданные и аннотация",
+    "excerpt": "customer retention is positively influenced by the number of products hold",
+    "sha256": "8db70d4a67835506747dcf9bbdfe0cb7c5831ad17e7dc90bdbd642f247f1d6cd",
+    "bytes": 20702
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1057/s41288-020-00187-2",
+    "access_date": "2026-10-12",
+    "status": "только метаданные; содержание не использовано",
+    "excerpt": "Non-life insurance cancellation: a systematic quantitative literature review",
+    "sha256": "d03ef1b1f0c82da8e675bc6084e86c31d679b0c6e978f55221a1d7525dbd4e19",
+    "bytes": 23925
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1017/asb.2022.18",
+    "access_date": "2026-10-12",
+    "status": "метаданные и аннотация оригинальной журнальной работы",
+    "excerpt": "retain the current set of policies, churn, or add/drop a coverage",
+    "sha256": "572320ec354ccb9ba62b83b3f50792d3d4fa06f805deaede26a5b984f0e0853d",
+    "bytes": 12236
+  },
+  {
+    "url": "https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1037&context=iceb2022",
+    "access_date": "2026-10-12",
+    "status": "полный текст PDF",
+    "excerpt": "ratio of the losses incurred in claims to the total earned premiums",
+    "sha256": "dc8515a4ce3efe9f6e010226f555f74815ab16a66095b2d47355538c9f9060bf",
+    "bytes": 291553
+  }
+]
